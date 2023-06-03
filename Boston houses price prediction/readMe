@@ -1,0 +1,2 @@
+This project is based on the famous dataset of boston houses. You can check more information about the dataset in the 'data info.txt' file.
+The model used for the prediction is a simple linear regression model. Check the notebook 'boston_houses_price_pridiction.ipynb' for step by step procedure.
